@@ -1,2 +1,2 @@
-select count(*) 
-from dependent
+select count(*) "Count"
+from grade_report

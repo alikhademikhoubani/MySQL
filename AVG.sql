@@ -1,2 +1,2 @@
-SELECT AVG(price) AS avg_price
-from orders
+select avg(hours) "Average Hours"
+from employee

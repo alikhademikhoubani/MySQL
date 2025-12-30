@@ -1,0 +1,1 @@
+select abs(-999.99) "Absolute Value"
