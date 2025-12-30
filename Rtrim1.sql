@@ -1,0 +1,1 @@
+select rtrim("Ranu     ") as names 

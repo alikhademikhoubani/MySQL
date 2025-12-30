@@ -1,3 +1,4 @@
-select a.id, a.name, a.salary, b.name, b.salary
-from customers a, customers b
-where a.salary < b.salary and a.id = 1
+select x.sname, x.class
+from student as x, student as y 
+where y.class = 3
+and x.class > y.class

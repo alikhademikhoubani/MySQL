@@ -1,2 +1,2 @@
-SELECT SUM(points) AS sum_points
-FROM customers
+select sum(hours) "Total Hours"
+from employee
